@@ -9,3 +9,4 @@ index.height
 index.name
 
 console.log(message)
+console.log(message) 
